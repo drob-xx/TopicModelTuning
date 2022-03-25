@@ -1,5 +1,5 @@
 # TopicModelTuning
-The has code that parrallels the article [Using Metrics to Determine The Right LDA Topic Model Size](https://drob707.medium.com/use-metrics-to-determine-lda-topic-model-size-1a1feaa1ff3c). Users can run the notebook and step-by-step re-create the procedures described in the article.
+The has code that parallels the article [Using Metrics to Determine The Right LDA Topic Model Size](https://drob707.medium.com/use-metrics-to-determine-lda-topic-model-size-1a1feaa1ff3c). Users can run the notebook and step-by-step re-create the procedures described in the article.
 
 To run the code presented here, follow this outline (details in the cells below):
 
